@@ -1,5 +1,9 @@
 package lanchonete;
 
+import lanchonete.area.cliente.*;
+import lanchonete.atendimento.cozinha.*;
+import lanchonete.atendimento.*;
+
 public class Estabelecimento {
 	public static void main(String[] args) {
 		Cozinheiro cozinheiro = new Cozinheiro();
