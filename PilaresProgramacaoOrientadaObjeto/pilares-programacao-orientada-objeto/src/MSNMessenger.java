@@ -1,3 +1,3 @@
-public class MSNMessenger {
+public class MSNMessenger extends ServicoMensagemInstantanea{
 	
 }
