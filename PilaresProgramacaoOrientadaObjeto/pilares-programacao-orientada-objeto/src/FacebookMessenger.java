@@ -1,15 +1,10 @@
 public class FacebookMessenger extends ServicoMensagemInstantanea {
 
-    @Override
     public void enviarMensagem() {
-        // TODO Auto-generated method stub
-        
-    }
-
-    @Override
-    public void receberMensagem() {
-        // TODO Auto-generated method stub
-        
-    }
+		System.out.println("Enviando mensagem pelo Facebook Messenger");
+	}
+	public void receberMensagem() {
+		System.out.println("Recebendo mensagem pelo Facebook Messenger");
+	}
     
 }
